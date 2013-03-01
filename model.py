@@ -3,7 +3,8 @@ import web
 import web.db
 from bae.core import const
 
-dbname = "fMvMkjlGfBCUrliDeKce"
+#your dbname in BAE
+dbname = "your dbname"
 
 db = web.database(
     dbn='mysql',
