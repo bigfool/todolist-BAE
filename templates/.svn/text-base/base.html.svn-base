@@ -1,0 +1,10 @@
+$def with (page)
+<html>
+    <head>
+        <title> Todo List</tilte>
+    </head>
+
+    <body>
+        $:page
+    </body>
+</html>
